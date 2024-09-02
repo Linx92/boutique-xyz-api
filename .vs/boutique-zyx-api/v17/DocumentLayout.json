@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ltaricuarima\\source\\repos\\boutique-zyx-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB469E8-E6D9-4CBB-993C-9BA4CC8D6C17}|boutique-zyx-api\\boutique-zyx-api.csproj|c:\\users\\ltaricuarima\\source\\repos\\boutique-zyx-api\\boutique-zyx-api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EDB469E8-E6D9-4CBB-993C-9BA4CC8D6C17}|boutique-zyx-api\\boutique-zyx-api.csproj|solutionrelative:boutique-zyx-api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB469E8-E6D9-4CBB-993C-9BA4CC8D6C17}|boutique-zyx-api\\boutique-zyx-api.csproj|c:\\users\\ltaricuarima\\source\\repos\\boutique-zyx-api\\boutique-zyx-api\\repositorio\\implementaciones\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB469E8-E6D9-4CBB-993C-9BA4CC8D6C17}|boutique-zyx-api\\boutique-zyx-api.csproj|solutionrelative:boutique-zyx-api\\repositorio\\implementaciones\\pedidorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB469E8-E6D9-4CBB-993C-9BA4CC8D6C17}|boutique-zyx-api\\boutique-zyx-api.csproj|c:\\users\\ltaricuarima\\source\\repos\\boutique-zyx-api\\boutique-zyx-api\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB469E8-E6D9-4CBB-993C-9BA4CC8D6C17}|boutique-zyx-api\\boutique-zyx-api.csproj|solutionrelative:boutique-zyx-api\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB469E8-E6D9-4CBB-993C-9BA4CC8D6C17}|boutique-zyx-api\\boutique-zyx-api.csproj|c:\\users\\ltaricuarima\\source\\repos\\boutique-zyx-api\\boutique-zyx-api\\utilidades\\ijwtutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB469E8-E6D9-4CBB-993C-9BA4CC8D6C17}|boutique-zyx-api\\boutique-zyx-api.csproj|solutionrelative:boutique-zyx-api\\utilidades\\ijwtutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB469E8-E6D9-4CBB-993C-9BA4CC8D6C17}|boutique-zyx-api\\boutique-zyx-api.csproj|c:\\users\\ltaricuarima\\source\\repos\\boutique-zyx-api\\boutique-zyx-api\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB469E8-E6D9-4CBB-993C-9BA4CC8D6C17}|boutique-zyx-api\\boutique-zyx-api.csproj|solutionrelative:boutique-zyx-api\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB469E8-E6D9-4CBB-993C-9BA4CC8D6C17}|boutique-zyx-api\\boutique-zyx-api.csproj|c:\\users\\ltaricuarima\\source\\repos\\boutique-zyx-api\\boutique-zyx-api\\dtos\\productopedidorespuestadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB469E8-E6D9-4CBB-993C-9BA4CC8D6C17}|boutique-zyx-api\\boutique-zyx-api.csproj|solutionrelative:boutique-zyx-api\\dtos\\productopedidorespuestadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB469E8-E6D9-4CBB-993C-9BA4CC8D6C17}|boutique-zyx-api\\boutique-zyx-api.csproj|c:\\users\\ltaricuarima\\source\\repos\\boutique-zyx-api\\boutique-zyx-api\\dtos\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB469E8-E6D9-4CBB-993C-9BA4CC8D6C17}|boutique-zyx-api\\boutique-zyx-api.csproj|solutionrelative:boutique-zyx-api\\dtos\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB469E8-E6D9-4CBB-993C-9BA4CC8D6C17}|boutique-zyx-api\\boutique-zyx-api.csproj|c:\\users\\ltaricuarima\\source\\repos\\boutique-zyx-api\\boutique-zyx-api\\utilidades\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB469E8-E6D9-4CBB-993C-9BA4CC8D6C17}|boutique-zyx-api\\boutique-zyx-api.csproj|solutionrelative:boutique-zyx-api\\utilidades\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB469E8-E6D9-4CBB-993C-9BA4CC8D6C17}|boutique-zyx-api\\boutique-zyx-api.csproj|c:\\users\\ltaricuarima\\source\\repos\\boutique-zyx-api\\boutique-zyx-api\\repositorio\\implementaciones\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB469E8-E6D9-4CBB-993C-9BA4CC8D6C17}|boutique-zyx-api\\boutique-zyx-api.csproj|solutionrelative:boutique-zyx-api\\repositorio\\implementaciones\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB469E8-E6D9-4CBB-993C-9BA4CC8D6C17}|boutique-zyx-api\\boutique-zyx-api.csproj|c:\\users\\ltaricuarima\\source\\repos\\boutique-zyx-api\\boutique-zyx-api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB469E8-E6D9-4CBB-993C-9BA4CC8D6C17}|boutique-zyx-api\\boutique-zyx-api.csproj|solutionrelative:boutique-zyx-api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ltaricuarima\\source\\repos\\boutique-zyx-api\\boutique-zyx-api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "boutique-zyx-api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ltaricuarima\\source\\repos\\boutique-zyx-api\\boutique-zyx-api\\appsettings.Development.json",
+              "RelativeToolTip": "boutique-zyx-api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-02T10:25:01.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PedidoController.cs",
+              "DocumentMoniker": "C:\\Users\\ltaricuarima\\source\\repos\\boutique-zyx-api\\boutique-zyx-api\\Controllers\\PedidoController.cs",
+              "RelativeDocumentMoniker": "boutique-zyx-api\\Controllers\\PedidoController.cs",
+              "ToolTip": "C:\\Users\\ltaricuarima\\source\\repos\\boutique-zyx-api\\boutique-zyx-api\\Controllers\\PedidoController.cs",
+              "RelativeToolTip": "boutique-zyx-api\\Controllers\\PedidoController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAvwCUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T09:53:16.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductoPedidoRespuestaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ltaricuarima\\source\\repos\\boutique-zyx-api\\boutique-zyx-api\\DTOs\\ProductoPedidoRespuestaDTO.cs",
+              "RelativeDocumentMoniker": "boutique-zyx-api\\DTOs\\ProductoPedidoRespuestaDTO.cs",
+              "ToolTip": "C:\\Users\\ltaricuarima\\source\\repos\\boutique-zyx-api\\boutique-zyx-api\\DTOs\\ProductoPedidoRespuestaDTO.cs",
+              "RelativeToolTip": "boutique-zyx-api\\DTOs\\ProductoPedidoRespuestaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T09:52:20.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AutomapperProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\ltaricuarima\\source\\repos\\boutique-zyx-api\\boutique-zyx-api\\Utilidades\\AutomapperProfiles.cs",
+              "RelativeDocumentMoniker": "boutique-zyx-api\\Utilidades\\AutomapperProfiles.cs",
+              "ToolTip": "C:\\Users\\ltaricuarima\\source\\repos\\boutique-zyx-api\\boutique-zyx-api\\Utilidades\\AutomapperProfiles.cs",
+              "RelativeToolTip": "boutique-zyx-api\\Utilidades\\AutomapperProfiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T09:50:13.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PedidoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ltaricuarima\\source\\repos\\boutique-zyx-api\\boutique-zyx-api\\Repositorio\\Implementaciones\\PedidoRepository.cs",
+              "RelativeDocumentMoniker": "boutique-zyx-api\\Repositorio\\Implementaciones\\PedidoRepository.cs",
+              "ToolTip": "C:\\Users\\ltaricuarima\\source\\repos\\boutique-zyx-api\\boutique-zyx-api\\Repositorio\\Implementaciones\\PedidoRepository.cs",
+              "RelativeToolTip": "boutique-zyx-api\\Repositorio\\Implementaciones\\PedidoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T09:49:20.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IJwtUtils.cs",
+              "DocumentMoniker": "C:\\Users\\ltaricuarima\\source\\repos\\boutique-zyx-api\\boutique-zyx-api\\Utilidades\\IJwtUtils.cs",
+              "RelativeDocumentMoniker": "boutique-zyx-api\\Utilidades\\IJwtUtils.cs",
+              "ToolTip": "C:\\Users\\ltaricuarima\\source\\repos\\boutique-zyx-api\\boutique-zyx-api\\Utilidades\\IJwtUtils.cs",
+              "RelativeToolTip": "boutique-zyx-api\\Utilidades\\IJwtUtils.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwBcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T09:45:06.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\ltaricuarima\\source\\repos\\boutique-zyx-api\\boutique-zyx-api\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "boutique-zyx-api\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\ltaricuarima\\source\\repos\\boutique-zyx-api\\boutique-zyx-api\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "boutique-zyx-api\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T09:24:36.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ltaricuarima\\source\\repos\\boutique-zyx-api\\boutique-zyx-api\\Repositorio\\Implementaciones\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "boutique-zyx-api\\Repositorio\\Implementaciones\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\ltaricuarima\\source\\repos\\boutique-zyx-api\\boutique-zyx-api\\Repositorio\\Implementaciones\\UsuarioRepository.cs",
+              "RelativeToolTip": "boutique-zyx-api\\Repositorio\\Implementaciones\\UsuarioRepository.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDMAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T09:09:58.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\ltaricuarima\\source\\repos\\boutique-zyx-api\\boutique-zyx-api\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "boutique-zyx-api\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\ltaricuarima\\source\\repos\\boutique-zyx-api\\boutique-zyx-api\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "boutique-zyx-api\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowD0AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T09:08:58.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ltaricuarima\\source\\repos\\boutique-zyx-api\\boutique-zyx-api\\DTOs\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "boutique-zyx-api\\DTOs\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\ltaricuarima\\source\\repos\\boutique-zyx-api\\boutique-zyx-api\\DTOs\\RegisterRequest.cs",
+              "RelativeToolTip": "boutique-zyx-api\\DTOs\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T09:02:41.992Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

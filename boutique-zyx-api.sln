@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "boutique-zyx-api", "boutique-zyx-api\boutique-zyx-api.csproj", "{EDB469E8-E6D9-4CBB-993C-9BA4CC8D6C17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDB469E8-E6D9-4CBB-993C-9BA4CC8D6C17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDB469E8-E6D9-4CBB-993C-9BA4CC8D6C17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDB469E8-E6D9-4CBB-993C-9BA4CC8D6C17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDB469E8-E6D9-4CBB-993C-9BA4CC8D6C17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41283D7E-5F1B-48AC-AF24-8FF464A089DD}
+	EndGlobalSection
+EndGlobal

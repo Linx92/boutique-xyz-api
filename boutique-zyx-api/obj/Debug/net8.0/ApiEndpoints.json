@@ -1,0 +1,244 @@
+[
+  {
+    "ContainingType": "boutique_zyx_api.Controllers.PedidoController",
+    "Method": "Get",
+    "RelativePath": "api/pedido",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[boutique_zyx_api.DTOs.PedidoDTO, boutique-zyx-api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "pedidos"
+  },
+  {
+    "ContainingType": "boutique_zyx_api.Controllers.PedidoController",
+    "Method": "Put",
+    "RelativePath": "api/pedido",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pedidoEstadoDTO",
+        "Type": "boutique_zyx_api.DTOs.PedidoEstadoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "ActualizaEstadoPedido"
+  },
+  {
+    "ContainingType": "boutique_zyx_api.Controllers.PedidoController",
+    "Method": "Post",
+    "RelativePath": "api/pedido",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pedidoCreacionDTO",
+        "Type": "boutique_zyx_api.DTOs.PedidoCreacionDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "crearPedido"
+  },
+  {
+    "ContainingType": "boutique_zyx_api.Controllers.PedidoController",
+    "Method": "Get",
+    "RelativePath": "api/pedido/{numeroPedido}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "numeroPedido",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "boutique_zyx_api.DTOs.PedidoDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "detallePedido"
+  },
+  {
+    "ContainingType": "boutique_zyx_api.Controllers.ProductoController",
+    "Method": "Post",
+    "RelativePath": "api/producto",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "creacionProductoDTO",
+        "Type": "boutique_zyx_api.DTOs.ProductoCreacionDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "crearProducto"
+  },
+  {
+    "ContainingType": "boutique_zyx_api.Controllers.ProductoController",
+    "Method": "Get",
+    "RelativePath": "api/producto",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[boutique_zyx_api.DTOs.ProductoDTO, boutique-zyx-api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "obtenerProducto"
+  },
+  {
+    "ContainingType": "boutique_zyx_api.Controllers.ProductoController",
+    "Method": "Get",
+    "RelativePath": "api/producto/{sku}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sku",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "boutique_zyx_api.DTOs.ProductoDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "obtenerProductoporSku"
+  },
+  {
+    "ContainingType": "boutique_zyx_api.Controllers.UsuarioController",
+    "Method": "GetAll",
+    "RelativePath": "Usuario",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "boutique_zyx_api.Controllers.UsuarioController",
+    "Method": "GetById",
+    "RelativePath": "Usuario/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "boutique_zyx_api.Controllers.UsuarioController",
+    "Method": "Update",
+    "RelativePath": "Usuario/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "model",
+        "Type": "boutique_zyx_api.DTOs.UpdateRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "boutique_zyx_api.Controllers.UsuarioController",
+    "Method": "Delete",
+    "RelativePath": "Usuario/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "boutique_zyx_api.Controllers.UsuarioController",
+    "Method": "Authenticate",
+    "RelativePath": "Usuario/authenticate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "boutique_zyx_api.DTOs.AuthenticateRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "boutique_zyx_api.Controllers.UsuarioController",
+    "Method": "Registrar",
+    "RelativePath": "Usuario/registrar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "boutique_zyx_api.DTOs.RegisterRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
