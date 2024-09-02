@@ -11,8 +11,12 @@
 ## Base de datos
 Se realizó el modelado de la base de datos mediante la librería Microsoft.EntityFrameworkCore.Tools
 El diagrama se muestra de esta manera
+<div align="center">
+	<img src="https://github.com/user-attachments/assets/7e7bd3c8-0ba3-4d28-950d-2de2cba51a4e" >
+</div>div>
+
 ```
-![diagrama](img/diagrama.png)
+
 
 Se adjunta la query de la base de datos BoutiqueXYZDB utilizada para las pruebas, esta debe ser ejecutada en un gestor de base de datos MySQL.
 
